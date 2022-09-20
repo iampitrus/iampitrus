@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ogbonnaya Peter
 - 👀 I’m most interested in AI/Machine Learning, but
-- 🌱 I’m currently learning Front-end development with React.js
+- 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to meet like minds
 - 📫 How to reach me ogbonnapete210@gmail.com
 
