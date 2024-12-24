@@ -8,13 +8,11 @@
 - 💖 I love building interactive and modern user interfaces that run on the web. I am a passionate learner who is willing to learn and leverage on modern technologies to make things easier.  
   
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning Threejs  
   
 
 -  ✉️  You can contact me at [ogbonnapete210@gmail.com](mailto:ogbonnapete210@gmail.com)  
   
-
-- 🤝  I'm open to collaborating on Cool projects  
   
 
 <br/>  
